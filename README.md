@@ -1,6 +1,6 @@
 # 4016-OSC-with-MIDI
 
-
+~ coming soon ~
 Eight 40106 oscillators controlled by MIDI
 
 
